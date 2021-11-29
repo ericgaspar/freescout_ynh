@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/freescout-helpdesk/freescout/archive/refs/tags/1.7.21.tar.gz
+SOURCE_SUM=526e0a105df73ba57f9c9deff91b1bb6dbb206738373d2957d4341e62bf32e34
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
